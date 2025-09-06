@@ -5,16 +5,18 @@
 ![Etherscan API](https://img.shields.io/badge/Etherscan-API-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-A simple Python tool that fetches and displays the last few Ethereum transactions for any wallet.  
-Built with **Web3.py** and the **Etherscan API**.  
+A professional Python tool that fetches, displays and exports the last Ethereum transactions for any wallet.  
+Built with **Web3.py**, **Etherscan API** and **Pandas** for CSV/Excel exports.  
 
 ---
 
 ## ✨ Features
-- ✅ Fetches ETH transactions from the Etherscan API  
-- ✅ Displays sender, receiver, amount, and timestamp  
-- ✅ Uses Web3.py to format balances  
-- ✅ Easy to extend for ERC-20 or NFT transfers  
+- ✅ Fetch **ETH transactions** from the Etherscan API  
+- ✅ Fetch **ERC-20 token transactions** (e.g., USDC)  
+- ✅ Pretty-printed results in clean tables (using `tabulate`)  
+- ✅ Export results to **CSV** and **Excel (.xlsx)**  
+- ✅ Secure `.env` support for private keys and API tokens  
+
 
 ---
 
