@@ -21,10 +21,15 @@ Built with **Web3.py** and the **Etherscan API**.
 ## 📂 Project Structure
 
 web3_tx_tracker/
+
 ├── tx_tracker.py # Main script
+
 ├── requirements.txt # Dependencies
+
 ├── README.md # Documentation
+
 ├── .env # Local environment variables (ignored by Git)
+
 └── screenshots/ # Demo outputs
 
 
