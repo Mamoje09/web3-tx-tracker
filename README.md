@@ -60,7 +60,9 @@ USDC Transactions
 Exported Files
 
 ✅ Exported 5 ETH transactions → eth_transactions.csv / eth_transactions.xlsx
+
 ✅ Exported 5 USDC transactions → usdc_transactions.csv / usdc_transactions.xlsx
+
 
 🛠 Roadmap
 
@@ -75,7 +77,9 @@ Build a simple FastAPI dashboard for web display
 📬 About Me
 
 I’m Mamo (GitHub: mamoje09
+
 I'm a backend engineer diving into Web3.
+
 This is my second Web3 project, showcasing live blockchain data fetching, ERC-20 tracking and CSV/Excel exports — optimized for Python 3.13+.
 
 ---
