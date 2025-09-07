@@ -6,8 +6,8 @@
 ![Excel](https://img.shields.io/badge/Export-CSV%2FExcel-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A professional Python tool that fetches, displays, and exports Ethereum transactions (ETH + ERC-20) for any wallet.  
-Built with **Web3.py**, **Etherscan API**, and lightweight CSV/Excel support (no pandas required).  
+A professional Python tool that fetches, displays and exports Ethereum transactions (ETH + ERC-20) for any wallet.  
+Built with **Web3.py**, **Etherscan API** and lightweight CSV/Excel support (no pandas required).  
 
 ---
 
